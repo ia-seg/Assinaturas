@@ -1,5 +1,5 @@
-# Assinaturas ( Resumindo..)
- O aplicativo "Assinaturas" facilita a administração dos dados de  acesso às suas assinaturas em sites, serviços de Streaming ou aplicativos.
+# Assinaturas (resumindo a apresentação..)
+ O aplicativo "Assinaturas" facilita a administração dos dados de acesso às suas assinaturas em sites, serviços de Streaming ou aplicativos. Baixe e experimente! - Clique em "Releases" deste repositório github e escolha a versão desejada.
 
 ![Logo do R](https://www.ia.seg.br/assets/img/Assinatura_logo_256.png)
 
